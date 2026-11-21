@@ -5,6 +5,9 @@ https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整�
 https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://iptv-org.github.io/iptv/countries/cn.m3u
+https://guovin.github.io/iptv-api/result.txt
+https://guovin.github.io/iptv-api/result.m3u
+https://gh-proxy.com/https://github.com/Free-TV/IPTV/blob/master/playlist.m3u8 
 
 
 
